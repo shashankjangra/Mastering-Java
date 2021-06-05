@@ -1,10 +1,4 @@
 Sample Input
-
-1234
-
+28346751
 Sample Output
-
-1
-2
-3
-4
+73425681
